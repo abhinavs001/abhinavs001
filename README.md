@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @abhinavs001
 - 👀 I’m interested in softwares 
-- 🌱 I’m currently learning different languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Web Devlopment and CP
+- 📫 You can reach me on LinkedIn
 
 <!---
 abhinavs001/abhinavs001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
