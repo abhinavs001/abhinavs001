@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abhinavs001
-- 👀 I’m interested in softwares 
-- 🌱 I’m currently learning Web Devlopment and CP
+- 👋 Hi, I’m Abhinav Singh.
+- 👀 I’m interested in softwares.
+- 🌱 I’m currently learning Web Devlopment and CP.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/abhinav-pratap-singh-bais-4b9a15201/)
 
 <!---
