@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhinav Singh.
+- 👋 Hi, I’m Abhinav Pratap Singh.
 - 👀 I’m interested in softwares.
 - 🌱 I’m currently learning Web Devlopment and CP.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/abhinav-pratap-singh-bais-4b9a15201/)
